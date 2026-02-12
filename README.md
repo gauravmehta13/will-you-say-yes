@@ -6,8 +6,8 @@
 
 *A viral interactive webpage where saying "No" is literally impossible*
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Click_Here-ff69b4?style=for-the-badge)](https://yourusername.github.io/will-you-say-yes)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/will-you-say-yes?style=for-the-badge&logo=github)](https://github.com/yourusername/will-you-say-yes/stargazers)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Click_Here-ff69b4?style=for-the-badge)](https://gauravmehta13.github.io/will-you-say-yes)
+[![GitHub Stars](https://img.shields.io/github/stars/gauravmehta13/will-you-say-yes?style=for-the-badge&logo=github)](https://github.com/gauravmehta13/will-you-say-yes/stargazers)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -48,7 +48,7 @@ This isn't just another button game. It's a **psychological masterpiece** that m
 ### Mobile Experience  
 *Touch-optimized - works flawlessly on phones*
 
-**[👉 Try The Live Demo Now](https://yourusername.github.io/will-you-say-yes)**
+**[👉 Try The Live Demo Now](https://gauravmehta13.github.io/will-you-say-yes)**
 
 </div>
 
@@ -70,7 +70,7 @@ This isn't just another button game. It's a **psychological masterpiece** that m
 
 ```bash
 # Clone and open - that's it!
-git clone https://github.com/yourusername/will-you-say-yes.git
+git clone https://github.com/gauravmehta13/will-you-say-yes.git
 cd will-you-say-yes
 open index.html
 ```
@@ -212,9 +212,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/will-you-say-yes?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/will-you-say-yes?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/will-you-say-yes?style=social)
+![GitHub stars](https://img.shields.io/github/stars/gauravmehta13/will-you-say-yes?style=social)
+![GitHub forks](https://img.shields.io/github/forks/gauravmehta13/will-you-say-yes?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/gauravmehta13/will-you-say-yes?style=social)
 
 **Used by 1000+ people to ask their crush out** ❤️
 

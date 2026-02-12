@@ -250,13 +250,6 @@ See [LICENSE](LICENSE) for details.
 - Built with vanilla JavaScript (no frameworks needed!)
 - Community contributions from amazing developers worldwide
 
-## 📞 Get in Touch
-
-- 🐦 Twitter: [@yourusername](https://twitter.com/yourusername)
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourusername)
-- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
-
 ---
 
 <div align="center">
